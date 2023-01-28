@@ -1,0 +1,9 @@
+numpy
+nltk
+sklearn
+scikit-learn
+streamlit
+re
+tweepy
+wordcloud
+matplotlib
